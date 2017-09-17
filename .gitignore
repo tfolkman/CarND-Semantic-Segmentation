@@ -103,3 +103,4 @@ ENV/
 RUNS/
 
 segmentation_model.*
+*.mp4
